@@ -39,3 +39,4 @@ Body: { "filePath": "./sample.csv" }
 - `GET /api/revenue?from=&to=&region=&product=`
 - `POST /api/refresh`
 
+![Database Schema](./schema_diagram.png)
